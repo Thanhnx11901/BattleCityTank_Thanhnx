@@ -1,0 +1,16 @@
+{
+    "purchasedTankIds": [
+        0
+    ],
+    "tankLevels": [
+        1
+    ],
+    "currentMoney": 0,
+    "currentScore": 0,
+    "unlockedLevels": [
+        0
+    ],
+    "starLevels": [
+        1
+    ]
+}
